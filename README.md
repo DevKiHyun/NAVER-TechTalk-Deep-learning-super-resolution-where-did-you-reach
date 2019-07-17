@@ -1,7 +1,7 @@
 # 네이버 테크톡 - 딥러닝 Super Resolution, 어디까지 왔니? / 2018-09-20
-NAVER TechTalk - Deep learning Super Resolution, where did you reach? / 2018-09-20
+NAVER TechTalk - Deep learning Super Resolution, where are you now? / 2018-09-20
 
-I gave a presentation titled "Deep learning super resolution, where did you reach?" at Naver TechTalk.
+I gave a presentation titled "Deep learning super resolution, where are you now?" at Naver TechTalk.
 
 # Naver TV
 [![Video Label](https://phinf.pstatic.net/tvcast/20181205_156/Mdc5S_1543971298497ITvSe_JPEG/88a221ea-f827-11e8-acee-505dacfbaa5c_02.jpg?type=f120_68_webp)](https://tv.naver.com/v/4696573?fbclid=IwAR3f55gcWWz-CoyL6-AYrwuv6jpQiCtgeBlkwDbcCHzVzKvSHFznj7sideo)
